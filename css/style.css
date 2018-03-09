@@ -79,6 +79,7 @@ body {
         flex-direction: column;
     }
 
+    /*Hide all results except days which is shown first */
     .countdown div {
         display: none;
     }
