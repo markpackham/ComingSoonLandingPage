@@ -27,6 +27,7 @@ body {
     background-image: url('https://preview.ibb.co/c7Drsn/showcase.jpg');
     background-size: cover;
     background-position: center;
+    /*view port height, use ALL 100 of 100 slices of the screen */
     height: 100vh;
 }
 
